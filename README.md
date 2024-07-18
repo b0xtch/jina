@@ -1,0 +1,1 @@
+# Rust API client for Jina AI
